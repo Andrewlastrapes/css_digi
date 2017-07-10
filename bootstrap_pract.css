@@ -1,0 +1,22 @@
+
+
+.main_container {
+	justify-content: center;
+}
+
+
+.container_top {
+	padding-left: 3%;
+
+}
+
+
+.container_middle {
+	padding-top: 2%;
+}
+
+.container_bottom {
+	border: 1px dotted black;
+	text-align: center;
+	padding-top: 5%;
+}
